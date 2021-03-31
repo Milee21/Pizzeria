@@ -1,0 +1,16 @@
+body 
+{
+    text-align: center;
+    background-color: crimson;
+}
+#mainimg 
+{
+    height: 500px;
+    width: 1200px;
+}
+#recommend-button
+{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
